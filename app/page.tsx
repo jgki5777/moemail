@@ -21,11 +21,14 @@ export default async function Home() {
               <div className="space-y-4">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-wider">
                   <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
-                    MoeMail
+                    临时邮箱
                   </span>
                 </h1>
                 <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 tracking-wide">
-                  萌萌哒临时邮箱服务
+                  一次性邮箱，永久免费
+                </p>
+                <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 tracking-wide">
+                  <a href="https://tpchuhai.com" className="text-blue-600 dark:text-blue-400">访问我们的官网</a>
                 </p>
               </div>
 
